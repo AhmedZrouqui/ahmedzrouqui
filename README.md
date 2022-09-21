@@ -10,11 +10,12 @@ I'm passionate about gaming too :blush: , so I do some game development with Uni
 
 What I have ? REDUX :running:
 
-### Technologies I have worked with :
+Don't be shy, take a look at my repositories!
 
-![](https://img.icons8.com/bubbles/50/000000/react.png) React (Cool icon, isn't it ?)
+Contact me at : zrouqui.ahmed.az@gmail.com
+or : ahmedze.dev@gmail.com
 
-
+Thank you for your visit.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedzrouqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
