@@ -14,7 +14,8 @@ Don't be shy, take a look at my repositories!
 
 ### Technologies :
 
-![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/96/000000/typescript.png)
+![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/48/000000/typescript.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png) ![](https://img.icons8.com/external-those-icons-flat-those-icons/24/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+And more...
 
 ### Hire me :
 
