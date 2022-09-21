@@ -15,11 +15,13 @@ Don't be shy, take a look at my repositories!
 ### Technologies :
 
 ![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/48/000000/typescript.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png) ![](https://img.icons8.com/color/48/000000/html-5--v1.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+
 And more...
 
 ### Hire me :
 
 Contact me at : zrouqui.ahmed.az@gmail.com
+
 or : ahmedzr.dev@gmail.com
 
 Thank you for your visit.
