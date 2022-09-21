@@ -8,7 +8,7 @@ I touch on backend too, for I have some experience with NodeJs (NestJS) and Pyth
 
 I'm passionate about gaming too :blush: , so I do some game development with Unity (C#)!
 
-What I have ? REDUX :running:
+What I hate ? REDUX :running:
 
 Don't be shy, take a look at my repositories!
 
