@@ -12,8 +12,14 @@ What I hate ? REDUX :running:
 
 Don't be shy, take a look at my repositories!
 
+### Technologies :
+
+![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/96/000000/typescript.png)
+
+### Hire me :
+
 Contact me at : zrouqui.ahmed.az@gmail.com
-or : ahmedze.dev@gmail.com
+or : ahmedzr.dev@gmail.com
 
 Thank you for your visit.
 
