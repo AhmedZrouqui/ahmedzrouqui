@@ -22,7 +22,7 @@ And more...
 
 Contact me at : zrouqui.ahmed.az@gmail.com
 
-or : ahmedzr.dev@gmail.com
+Website : https://ahmedzrouqui.com/
 
 Thank you for your visit.
 
