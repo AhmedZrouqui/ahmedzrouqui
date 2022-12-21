@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm Ahmed Zrouqui! I'm a front-end developer!
 
-Hello :grin: , I'm a frontend developer based in Morocco, exactly Casablanca. I have been working as a Frontend dev (freelancer) for almost 2 years, I mainly have worked as a React developer with different clients all around the world.
+Hello :grin: , I'm a frontend developer based in Morocco, exactly Casablanca. I have been working as a Frontend dev (freelancer) for almost 4 years, I mainly have worked as a React developer with different clients all around the world.
 
 I have solid experience with HTML CSS and Javascript (libraries and frameworks included), and I think that I can implement anything clients would love to see on their websites.
 
