@@ -8,23 +8,21 @@ I touch on backend too, for I have some experience with NodeJs (NestJS) and Pyth
 
 I'm passionate about gaming too :blush: , so I do some game development with Unity (C#)!
 
-What I hate ? REDUX :running:
-
-Don't be shy, take a look at my repositories!
-
 ### Technologies :
 
 ![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/48/000000/typescript.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png) ![](https://img.icons8.com/color/48/000000/html-5--v1.png) ![](https://img.icons8.com/color/48/000000/css3.png)
 
 And more...
 
-### Hire me :
+## Hire me :
 
 Contact me at : zrouqui.ahmed.az@gmail.com
 
 Website : https://ahmedzrouqui.com/
 
 Thank you for your visit.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedzrouqui&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedzrouqui&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedzrouqui)](https://github.com/anuraghazra/github-readme-stats)
 
