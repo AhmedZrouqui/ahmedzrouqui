@@ -41,7 +41,7 @@ My passion lies at the intersection of **craftsmanship, performance, and cutting
 ### 🧰 My Toolbox
 | Category         | Technologies |
 |------------------|-------------|
-| **Frontend**     | TypeScript, React, Next.js, Tailwind CSS, Framer Motion, Zustand |
+| **Frontend**     | TypeScript, React, Next.js, Tailwind CSS, Zustand |
 | **Backend**      | Node.js, NestJS, tRPC, PostgreSQL, Prisma |
 | **Testing**      | Jest, React Testing Library, Cypress |
 | **DevOps & Tools** | Docker, Vercel, Git, Figma, Storybook |
