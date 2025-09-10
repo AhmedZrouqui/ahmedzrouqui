@@ -1,29 +1,99 @@
-### Hi there 👋! I'm Ahmed Zrouqui! I'm a front-end developer!
+Ahmed Zrouqui | Senior Frontend Engineer & Consultant
 
-Hello :grin: , I'm a frontend developer based in Morocco, exactly Casablanca. I have been working as a Frontend dev (freelancer) for almost 4 years, I mainly have worked as a React developer with different clients all around the world.
+Specializing in building high-performance, scalable web applications with TypeScript, React, and Next.js.
+<p align="left">
+<a href="https://ahmedzrouqui.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-ahmedzrouqui.com-blue%3Fstyle%3Dflat-square%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio"/>
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ahmed-zrouqui/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Ahmed%2520Zrouqui-0A66C2%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:zrouqui.ahmed.az@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-zrouqui.ahmed.az%40gmail.com-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+</p>
 
-I have solid experience with HTML CSS and Javascript (libraries and frameworks included), and I think that I can implement anything clients would love to see on their websites.
+Based in Casablanca, Morocco, I partner with companies worldwide to architect and build exceptional, user-centric web applications. With over four years of experience in the freelance space, I've delivered robust and maintainable solutions for clients across diverse industries. My passion lies at the intersection of craftsmanship, performance, and cutting-edge technology.
 
-I touch on backend too, for I have some experience with NodeJs (NestJS) and Python (Django) :eyes: .
+What I'm Focusing On
+🚀 Performance-Driven Architecture with Next.js: Architecting full-stack applications using the Next.js App Router, React Server Components, and advanced caching strategies to achieve elite Core Web Vitals and a seamless user experience.
 
-I'm passionate about gaming too :blush: , so I do some game development with Unity (C#)!
+🛡️ End-to-End Type-Safety with TypeScript: Leveraging advanced TypeScript patterns, including generics and conditional types, to build highly maintainable, scalable, and bug-resistant codebases. I use tools like Zod for robust data validation.
 
-### Technologies :
+🎨 UI/UX & Design Systems: Crafting pixel-perfect, responsive user interfaces with a focus on component-driven development. Proficient in using Tailwind CSS and building out design systems with tools like Shadcn/UI and Storybook.
 
-![](https://img.icons8.com/color/48/000000/javascript--v1.png) ![](https://img.icons8.com/color/48/000000/typescript.png) ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png) ![](https://img.icons8.com/color/48/000000/html-5--v1.png) ![](https://img.icons8.com/color/48/000000/css3.png)
+My Toolbox
+Category
 
-And more...
+Technologies
 
-## Hire me :
+Frontend
 
-Contact me at : zrouqui.ahmed.az@gmail.com
+TypeScript, React, Next.js, Tailwind CSS, Framer Motion, Zustand
 
-Website : https://ahmedzrouqui.com/
+Backend
 
-Thank you for your visit.
+Node.js, NestJS, tRPC, PostgreSQL, Prisma
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedzrouqui&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedzrouqui&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Testing
 
+Jest, React Testing Library, Cypress
 
+DevOps & Tools
 
+Docker, Vercel, Git, Figma, Storybook
+
+My Work
+Here are the projects that showcase my skills and dedication to quality.
+
+<!--
+Instructions for Ahmed:
+- Replace the placeholder info below with your actual portfolio projects (DevCanvas, FlowBoard, etc.) once they are ready.
+- Create a 2:1 aspect ratio screenshot or GIF for each project and place it in a public folder in your repo.
+-->
+
+Project
+
+Description
+
+Tech Stack
+
+Links
+
+DevCanvas <br/> [Image Placeholder: A stunning screenshot of your blog]
+
+A blazingly fast, SEO-optimized blog platform built with modern tech. Showcases mastery of SSG, ISR, and content management.
+
+Next.js, TypeScript, MDX, Zod, Tailwind CSS
+
+[Live Demo](#) <br/> [GitHub Repo](#)
+
+FlowBoard <br/> [Image Placeholder: A GIF of the collaborative board in action]
+
+A real-time collaborative Kanban board. Demonstrates complex state management (Zustand), optimistic UI, and real-time features using WebSockets.
+
+React, Next.js, TypeScript, Liveblocks, dnd-kit
+
+[Live Demo](#) <br/> [GitHub Repo](#)
+
+FinSight <br/> [Image Placeholder: A screenshot of a complex data dashboard]
+
+An enterprise-grade financial dashboard for visualizing complex data. Highlights skills in data visualization, server-side data fetching, and performance with large datasets.
+
+Next.js (App Router), TypeScript, Recharts, Prisma
+
+[Live Demo](#) <br/> [GitHub Repo](#)
+
+Let's Connect
+I'm currently available for freelance consulting and challenging projects. If you have a problem you need to solve, let's talk.
+
+<p align="left">
+<a href="https://ahmedzrouqui.com/" target="_blank"><b>Portfolio</b></a> •
+<a href="mailto:zrouqui.ahmed.az@gmail.com"><b>Email</b></a> •
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ahmed-zrouqui/" target="_blank"><b>LinkedIn</b></a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dahmedzrouqui%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Ahmedzrouqui&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
